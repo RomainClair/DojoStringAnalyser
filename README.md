@@ -1,4 +1,4 @@
-# A simple frequency analyser
+# A simple string analyser
 
 ## Skills & concepts
 
@@ -14,8 +14,8 @@ composer install
 
 ## Goals
 
-Declare a countVowels() function in the FrequencyAnalyser.php file.
-This functions analyse a string to return an array containing the number of occurences of each vowels in the string.
+Declare a countVowels() function in the src/stringAnalyser.php file.
+This functions analyses a string to return an array containing the number of occurences of each vowels in the string.
 
 This function must be case insensitive so "aAa" will be counted as 3 "a".
 
